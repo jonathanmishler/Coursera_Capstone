@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+requests
+beautifulsoup4
+geocoder
+scikit-learn
