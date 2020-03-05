@@ -4,5 +4,6 @@ scipy
 matplotlib
 requests
 beautifulsoup4
-geocoder
+geopy
 scikit-learn
+jupyterlab
