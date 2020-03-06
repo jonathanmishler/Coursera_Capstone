@@ -135,4 +135,4 @@ dmypy.json
 .pytype/
 
 .vscode
-config.py
+project_config.py
